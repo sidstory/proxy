@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/  https://snipd.softr.app/:splat  200
+/  https://snipd.softr.app/ 200
